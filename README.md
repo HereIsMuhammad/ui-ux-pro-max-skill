@@ -37,8 +37,7 @@ An AI skill that provides design intelligence for building professional UI/UX ac
 
 ### Intelligent Design System Generation
 
-The flagship feature of v2.0 is the **Design System Generator** - an AI-powered reasoning engine that analyzes your project requirements and generates a complete, tailored design system in seconds.
-
+The flagship feature of v2.0 is the **Design System Generator** - an AI-powered reasoning engine that analyzes your project requirements and generates a complete and tailored design system in seconds.
 ```
 +----------------------------------------------------------------------------------------+
 |  TARGET: Serenity Spa - RECOMMENDED DESIGN SYSTEM                                      |
