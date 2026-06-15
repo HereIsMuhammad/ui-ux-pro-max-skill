@@ -66,7 +66,7 @@ The flagship feature of v2.0 is the **Design System Generator** - an AI-powered 
 |     Text:       #2D3436 (Charcoal)                                                     |
 |     Notes: Calming palette with gold accents for luxury feel                           |
 |                                                                                        |
-|  TYPOGRAPHY: Cormorant Garamond / Montserrat                                           |
+|  TYPOGRAPHY: Cormorant Garamond, Georgia, serif / Montserrat, Arial, sans-serif                                    |
 |     Mood: Elegant, calming, sophisticated                                              |
 |     Best For: Luxury brands, wellness, beauty, editorial                               |
 |     Google Fonts: https://fonts.google.com/share?selection.family=...                  |
